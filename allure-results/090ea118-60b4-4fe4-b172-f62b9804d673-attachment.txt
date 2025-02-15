@@ -1,0 +1,31 @@
+
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                        Starting Execution: '1 out of 1' test cases in the current suite                                        
+                                                 Test Method: 'Assesment.Tests.AssesmentSignup'                                                 
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[ReportManager] Type "Email address" @15-02-2025 02:07:31.0577 AM
+[ReportManager] Explicit wait until: "presence of any elements located by By.cssSelector: .ButtonInner-sc-14ud5tc-0.hvvTXU.encore-bright-accent-set". @15-02-2025 02:07:33.0392 AM
+[ReportManager] Click "By.cssSelector: .ButtonInner-sc-14ud5tc-0.hvvTXU.encore-bright-accent-set" @15-02-2025 02:07:33.0732 AM
+[ReportManager] Type "Use tab to navigate to the password requirements" @15-02-2025 02:07:34.0185 AM
+[ReportManager] Explicit wait until: "presence of any elements located by By.cssSelector: .ButtonInner-sc-14ud5tc-0.hvvTXU.encore-bright-accent-set". @15-02-2025 02:07:34.0319 AM
+[ReportManager] Click "By.cssSelector: .ButtonInner-sc-14ud5tc-0.hvvTXU.encore-bright-accent-set" @15-02-2025 02:07:34.0580 AM
+[ReportManager] Type "Name" @15-02-2025 02:07:35.0114 AM
+[ReportManager] Type "Date of birth" @15-02-2025 02:07:35.0475 AM
+[ReportManager] Explicit wait until: "presence of any elements located by By.cssSelector: #month". @15-02-2025 02:07:35.0521 AM
+[ReportManager] Click "By.cssSelector: #month" @15-02-2025 02:07:35.0801 AM
+[ReportManager] Explicit wait until: "presence of any elements located by By.xpath: //option[@value='3']". @15-02-2025 02:07:35.0874 AM
+[ReportManager] Click "March" @15-02-2025 02:07:36.0067 AM
+[ReportManager] Type "yyyy" @15-02-2025 02:07:36.0385 AM
+[ReportManager] Click "By.xpath: //label[@for='gender_option_male']" @15-02-2025 02:07:36.0605 AM
+[ReportManager] Explicit wait until: "presence of any elements located by By.cssSelector: .ButtonInner-sc-14ud5tc-0.hvvTXU.encore-bright-accent-set". @15-02-2025 02:07:36.0647 AM
+[ReportManager] Click "By.cssSelector: .ButtonInner-sc-14ud5tc-0.hvvTXU.encore-bright-accent-set" @15-02-2025 02:07:36.0918 AM
+[ReportManager] Click "By.xpath: (//span[@class='Indicator-sc-1airx73-0 lhZnAn'])[1]" @15-02-2025 02:07:37.0208 AM
+[ReportManager] Click "By.xpath: (//span[@class='Indicator-sc-1airx73-0 lhZnAn'])[2]" @15-02-2025 02:07:37.0456 AM
+[ReportManager] Explicit wait until: "presence of any elements located by By.cssSelector: .ButtonInner-sc-14ud5tc-0.hvvTXU.encore-bright-accent-set". @15-02-2025 02:07:37.0587 AM
+[ReportManager] Click "By.xpath: //span[@class='ButtonInner-sc-14ud5tc-0 hvvTXU encore-bright-accent-set']" @15-02-2025 02:07:37.0831 AM
+[ReportManager] Type "What do you want to play?" @15-02-2025 02:07:49.0350 AM
+[ReportManager] Click "By.xpath: //div[@data-testid="herocard-click-handler"]" @15-02-2025 02:07:54.0090 AM
+[ReportManager] Click "By.cssSelector: div[role='presentation'] div:nth-child(1) div:nth-child(1) div:nth-child(4) button:nth-child(1) span:nth-child(1) svg" @15-02-2025 02:07:57.0059 AM
+[ReportManager] Click "By.cssSelector: body div[id='main'] div[role='presentation'] div[role='presentation'] div:nth-child(2) div:nth-child(1) div:nth-child(4) button:nth-child(1) span:nth-child(1) svg" @15-02-2025 02:07:58.0625 AM
+[ReportManager] Click "By.cssSelector: span[class='IconWrapper__Wrapper-sc-1hf1hjl-0 ivomLs'] svg" @15-02-2025 02:07:59.0748 AM
